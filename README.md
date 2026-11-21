@@ -17,11 +17,20 @@
 ---
 
 
+
+
+
+
 ### 🌐 My AI Engineering Portfolio
 
 Explore my AI projects, technical skills, internship experience, and deployed applications.
 
 🚀 **[Visit My Portfolio](https://gotam-ai-portfolio-ha45drxo7-eng-gotam.vercel.app/)**
+
+
+
+
+
 
 
 
